@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 💕 已有主人，是世界上最可爱的美少女susu。
 
-⚡ Game：目前主玩原神(太黑暗了)，是FPS爱好者，大学期间沉迷彩虹六号围观，最喜欢的是战地battlefiled，每年都会买年货COD。电子阳痿中。
+⚡ Game：目前主玩原神(太黑暗了)，是FPS爱好者，大学期间沉迷彩虹六号围攻，最喜欢的是战地battlefiled，每年都会买年货COD。电子阳痿中。
 
 技术设定
 🌐 Back-End  Developer
