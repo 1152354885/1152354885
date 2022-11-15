@@ -27,9 +27,13 @@ Here are some ideas to get you started:
 🌐 Back-End  Developer
 
 🖥 技术栈
+
 目前 springboot/springMVC/redis/mysql/mybatis/mybatis-plus 老本行：stm32（已放弃） mqtt（计划回去看） 
+
 在学 mybatis-plus/前端三件套/设计模式/vue
+
 想学 微服务/springcloudAlibaba/兔子没钱
+
 语言：
 java         * * *
 c            * *
