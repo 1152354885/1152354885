@@ -16,9 +16,11 @@ Here are some ideas to get you started:
 -->
 基本设定
 
-ℹ️ April酱, 设定是内心美少女·某三本学院的物联网工程劣等生, 受老师&&好朋友&&宠物 kirineko 影响 热爱并崇尚技术, 也热爱二次元,希望能成为像kirineko一样独当一面的技术喵 信仰是: 比风儿和鸟儿更自由。
+ℹ️ April酱, 设定是内心美少女·某三本学院的物联网工程劣等生, 受老师&&好朋友&&宠物 kirineko 影响 热爱并崇尚技术, 也热爱二次元,希望能成为像kirineko一样独当一面的技术喵。 信仰是: 比风儿和鸟儿更自由。
 
 🤩 喜欢废萌和傲娇, 暂时不知道自己什么属性。
+
+😄 看Vtuber，以前是小孩梓，现在是雏草姬。最喜欢的v是shanoa夏诺雅。
 
 💕 已有主人，是世界上最可爱的美少女susu。
 
@@ -36,8 +38,11 @@ Here are some ideas to get you started:
 想学 微服务/springcloudAlibaba/兔子没钱
 
 语言：
-java         * * *
-c            * *
-python       *
+
+java         ✨✨✨
+
+c            ✨✨
+
+python       ✨
 
 其实还是喜欢CV。
