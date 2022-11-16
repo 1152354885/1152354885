@@ -39,10 +39,10 @@ Here are some ideas to get you started:
 
 语言：
 
-java         ✨✨✨
+java        : ✨✨✨
 
-c            ✨✨
+c           : ✨✨
 
-python       ✨
+python      : ✨
 
 其实还是喜欢CV。
