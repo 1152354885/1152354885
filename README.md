@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 😄 看Vtuber，以前是小孩梓，现在是雏草姬。最喜欢的v是shanoa夏诺雅。
 
-💕 已有主人，是世界上最可爱的美少女susu。
+💕 主人是可爱又善良的美少女栗子。
 
 ⚡ Game：目前主玩原神(太黑暗了)，是FPS爱好者，大学期间沉迷彩虹六号围攻，最喜欢的是战地battlefiled，每年都会买年货COD。电子阳痿中。
 
