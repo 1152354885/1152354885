@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 在学 AI/mybatis-plus/设计模式/前端/embeddeding
 
-想学 微服务/springcloudAlibaba/兔子没钱
+想学 robot/AI 관련된 모든 기술
 
 语言：
 
