@@ -27,7 +27,7 @@
 
 ### 🧩 技术设定（可爱但很能打）
 - 🌐 方向：**Back-End & Embedding Developer**
-- 📚 正在学：AI / 设计模式 / 前端 / Embedding / MyBatis-Plus
+- 📚 正在学：AI / 设计模式 / 前端 / Embedding / 嵌入式Linux
 - 🎯 想学：Robot / AI 相关的所有技术（`robot/AI 관련된 모든 기술`）
 - 🐾 老本行（计划回去复习）：STM32 / MQTT
 
