@@ -30,7 +30,7 @@
 - 🌐 方向：**Back-End & Embedding Developer**
 - 📚 正在学：**AI / 设计模式 / 前端 / Embedding / 嵌入式 Linux / Arduino / Raspberry Pi**
 - 🎯 想学：Robot / AI 相关的所有技术（`robot/AI 관련된 모든 기술`）
-- 🐾 老本行（计划回去复习）：**STM32 / MQTT / C / 串口通信**
+- 🐾 老本行（计划回去复习）：**STM32 / MQTT / C / LoRa / I2C / SPI
 - 🔧 日常会碰：后端接口、嵌入式开发、传感器、串口调试、Linux 环境折腾
 - 💭 目标：把“能跑”慢慢变成“优雅地跑”，把“会写代码”变成“会造系统”
 
