@@ -15,9 +15,10 @@
 ---
 
 ### ✨ 基本设定
-- ℹ️ **April酱**：内心美少女 / 某三本学院物联网工程“劣等毕业生” / 凯瑞亚某国立大学在读  
-- 💛 受 **老师 && 好朋友 && 宠物 kirineko** 影响：热爱并崇尚技术，也热爱二次元  
-- 🪄 愿望：用“魔法程序”创造奇迹，让所爱之人天天开心  
+- ℹ️ **April酱**：内心美少女 / 某三本学院物联网工程“劣等毕业生” / 凯瑞亚某国立大学在读
+- 🎓 导师：**德克萨斯农工大学的博后大佬**
+- 💛 受 **老师 && 好朋友 && 宠物 kirineko** 影响：热爱并崇尚技术，也热爱二次元
+- 🪄 愿望：用“魔法程序”创造奇迹，让所爱之人天天开心
 - 🤩 喜欢：废萌、傲娇（属性待确定）
 - 😄 Vtuber：以前是小孩梓 → 现在是雏草姬；最喜欢 **shanoa 夏诺雅**
 - 💕 情感状态：已有女友，是学霸美少女 **沈沈**
@@ -27,32 +28,38 @@
 
 ### 🧩 技术设定（可爱但很能打）
 - 🌐 方向：**Back-End & Embedding Developer**
-- 📚 正在学：AI / 设计模式 / 前端 / Embedding / 嵌入式Linux
+- 📚 正在学：**AI / 设计模式 / 前端 / Embedding / 嵌入式 Linux / Arduino / Raspberry Pi**
 - 🎯 想学：Robot / AI 相关的所有技术（`robot/AI 관련된 모든 기술`）
-- 🐾 老本行（计划回去复习）：STM32 / MQTT
+- 🐾 老本行（计划回去复习）：**STM32 / MQTT / C / 串口通信**
+- 🔧 日常会碰：后端接口、嵌入式开发、传感器、串口调试、Linux 环境折腾
+- 💭 目标：把“能跑”慢慢变成“优雅地跑”，把“会写代码”变成“会造系统”
 
 ---
 
 ### 🧰 技术栈（图片标记）
 <p>
-  <!-- Backend -->
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img alt="MyBatis" src="https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logoColor=white" />
   <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 </p>
 
 <p>
-  <!-- Embedding / IoT -->
   <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img alt="STM32" src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
+  <img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />
   <img alt="MQTT" src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logoColor=white" />
+  <img alt="Embedded Linux" src="https://img.shields.io/badge/Embedded%20Linux-222222?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
 
 <p>
-  <!-- Learning -->
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="AI" src="https://img.shields.io/badge/AI-%E2%9C%A8-8a7dff?style=for-the-badge" />
 </p>
@@ -63,10 +70,20 @@
 | Language | Level |
 |---|---|
 | Java | ✨✨✨ |
-| C | ✨✨ |
+| C / C++ | ✨✨ |
 | Python | ✨ |
+| Embedded Development | 持续修炼中 |
+| Back-End Development | 能打，但还想更强 |
 
 > 其实还是喜欢 CV。
+
+---
+
+### 🌙 一点点碎碎念
+- 我喜欢技术，也喜欢那种“把脑海里的想法真正变成现实”的感觉
+- 会被优雅的代码、聪明的系统设计，还有可爱的东西同时打动
+- 希望自己以后能做出真正有温度的程序，而不只是冷冰冰的功能堆砌
+- 如果代码也算魔法，那我想做会让人幸福一点点的那种魔法程序喵
 
 ---
 
