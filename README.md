@@ -1,6 +1,6 @@
 <!-- 🌌 星穹铁道 Banner -->
 <p align="center">
-  <img src="https://images6.alphacoders.com/131/1317138.jpeg" width="100%" />
+  <img src="https://raw.githubusercontent.com/Akilar/akilar.github.io/master/images/hsr/hsr-banner.jpg" width="100%" />
 </p>
 
 ## Hi there 👋 这里是 April酱
