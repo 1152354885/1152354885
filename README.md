@@ -1,7 +1,4 @@
 <!-- 🌌 星穹铁道 Banner -->
-<p align="center">
-  <img src="./4234cfe703731efd503fd3865a2e5b2c_6382209280142710324.jpeg" width="100%" />
-</p>
 ## Hi there 👋 这里是 April酱
 
 <p align="center">
