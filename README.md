@@ -38,7 +38,6 @@
 ---
 
 ### 🧰 技术栈
-### 🧰 技术栈（图片标记）
 
 <p>
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
