@@ -1,8 +1,7 @@
 <!-- 🌌 星穹铁道 Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zyx-coding/image-hosting/main/hsr/hsr_banner_1.jpg" width="100%" />
+  <img src="./4234cfe703731efd503fd3865a2e5b2c_6382209280142710324.jpeg" width="100%" />
 </p>
-
 ## Hi there 👋 这里是 April酱
 
 <p align="center">
