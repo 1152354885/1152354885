@@ -67,9 +67,8 @@
 
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="AI" src="https://img.shields.io/badge/AI-%E2%9C%A8-8a7dff?style=for-the-badge" />
+  <img alt="Vibe Coding" src="https://img.shields.io/badge/Vibe%20Coding-FF69B4?style=for-the-badge&logo=sparkles&logoColor=white" />
 </p>
-
 ---
 
 ### 🗣️ 语言熟练度
